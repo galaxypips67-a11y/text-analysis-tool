@@ -22,7 +22,7 @@ def getusername():
 
 #Greet user
 def greetuser (name, instruction):
-  print("\nHello," + name + "," + instruction)
+  print("\nHello ," + name + "," + instruction)
 
 
 
